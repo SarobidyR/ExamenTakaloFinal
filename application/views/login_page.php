@@ -66,7 +66,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6 mb-30">
                             <!-- Login Form s-->
-                            <form action=""  method="POST">
+                            <form action="<?php echo base_url(); ?>index.php/user/login"  method="POST">
                                 <div class="login-form">
                                     <h4 class="login-title">Login</h4>
                                     <div class="row">
@@ -94,9 +94,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 </div>
                             </form>
                         </div>
-                       
+                        <?php
+				            if($this->session->flashdata('error')){
+					    ?>
+					<div class="alert alert-danger text-center" style="margin-top:20px;">
+						<?php echo $this->session->flashdata('error'); ?>
 					</div>
-
+					<?php
+				}
+			?>
                         <!-- <div class="col-sm-12 col-md-12 col-lg-6 col-xs-12">
                             <form action="#">
                                 <div class="login-form">
