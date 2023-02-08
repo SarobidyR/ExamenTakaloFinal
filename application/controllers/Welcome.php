@@ -20,7 +20,20 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('loader_login');
-		
+		$this->load->view('login_page');
 	}		
+
+	public function login()
+	{
+		$mail = $this->input->post("mail");
+		$ass=$this->input->post("pass");
+		var_dump($mail);
+		var_dump($pass);
+
+		$this->load->model('Login_model');
+		var_dump($this->Login_model->checkLogin($mail,$pass));
+
+		if($this->session->set_userdata('mail',$mail));
+		redirect('index.php/user/index');
+	}
 }
