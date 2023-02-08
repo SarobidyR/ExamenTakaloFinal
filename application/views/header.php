@@ -11,39 +11,39 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="../examtakalo/assets/images/favicon.png">
+        <link rel="shortcut icon" type="image/x-icon" href="../ExamenTakaloFinal/assets/images/favicon.png">
         <!-- Material Design Iconic Font-V2.2.0 -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/material-design-iconic-font.min.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/material-design-iconic-font.min.css">
         <!-- Font Awesome -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/font-awesome.min.css">
         <!-- Font Awesome Stars-->
-        <link rel="stylesheet" href="../examtakalo/assets/css/fontawesome-stars.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/fontawesome-stars.css">
         <!-- Meanmenu CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/meanmenu.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/meanmenu.css">
         <!-- owl carousel CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/owl.carousel.min.css">
         <!-- Slick Carousel CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/slick.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/slick.css">
         <!-- Animate CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/animate.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/animate.css">
         <!-- Jquery-ui CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/jquery-ui.min.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/jquery-ui.min.css">
         <!-- Venobox CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/venobox.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/venobox.css">
         <!-- Nice Select CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/nice-select.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/nice-select.css">
         <!-- Magnific Popup CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/magnific-popup.css">
         <!-- Bootstrap V4.1.3 Fremwork CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/bootstrap.min.css">
         <!-- Helper CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/helper.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/helper.css">
         <!-- Main Style CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/style.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/style.css">
         <!-- Responsive CSS -->
-        <link rel="stylesheet" href="../examtakalo/assets/css/responsive.css">
+        <link rel="stylesheet" href="../ExamenTakaloFinal/assets/css/responsive.css">
         <!-- Modernizr js -->
-        <script src="../examtakalo/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
     <!--[if lt IE 8]>

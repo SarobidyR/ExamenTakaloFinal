@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-sm-55 pb-xs-55">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="../examtakalo/assets/images/shipping-icon/1.png" alt="Shipping Icon">
+                                            <img src="../ExamenTakaloFinal/assets/images/shipping-icon/1.png" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>Free Delivery</h2>
@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-sm-55 pb-xs-55">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="../examtakalo/assets/images/shipping-icon/2.png" alt="Shipping Icon">
+                                            <img src="../ExamenTakaloFinal/assets/images/shipping-icon/2.png" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>Safe Payment</h2>
@@ -38,7 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-xs-30">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="../examtakalo/assets/images/shipping-icon/3.png" alt="Shipping Icon">
+                                            <img src="../ExamenTakaloFinal/assets/images/shipping-icon/3.png" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>Shop with Confidence</h2>
@@ -51,7 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-xs-30">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="../examtakalo/assets/images/shipping-icon/4.png" alt="Shipping Icon">
+                                            <img src="../ExamenTakaloFinal/assets/images/shipping-icon/4.png" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>24/7 Help Center</h2>
@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <!-- Begin Footer Logo Area -->
                                 <div class="col-lg-4 col-md-6">
                                     <div class="footer-logo">
-                                        <img src="../examtakalo/assets/images/menu/logo/1.jpg" alt="Footer Logo">
+                                        <img src="../ExamenTakaloFinal/assets/images/menu/logo/1.jpg" alt="Footer Logo">
                                         <p class="info">
                                             We are a team of designers and developers that create high quality HTML Template & Woocommerce, Shopify Theme.
                                         </p>
@@ -211,7 +211,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <!-- Begin Footer Payment Area -->
                                 <div class="copyright text-center">
                                     <a href="#">
-                                        <img src="../examtakalo/assets/images/payment/1.png" alt="">
+                                        <img src="../ExamenTakaloFinal/assets/images/payment/1.png" alt="">
                                     </a>
                                 </div>
                                 <!-- Footer Payment Area End Here -->
@@ -241,31 +241,31 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="product-details-left">
                                         <div class="product-details-images slider-navigation-1">
                                             <div class="lg-image">
-                                                <img src="../examtakalo/assets/images/product/large-size/1.jpg" alt="product image">
+                                                <img src="../ExamenTakaloFinal/assets/images/product/large-size/1.jpg" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="../examtakalo/assets/images/product/large-size/2.jpg" alt="product image">
+                                                <img src="../ExamenTakaloFinal/assets/images/product/large-size/2.jpg" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="../examtakalo/assets/images/product/large-size/3.jpg" alt="product image">
+                                                <img src="../ExamenTakaloFinal/assets/images/product/large-size/3.jpg" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="../examtakalo/assets/images/product/large-size/4.jpg" alt="product image">
+                                                <img src="../ExamenTakaloFinal/assets/images/product/large-size/4.jpg" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="../examtakalo/assets/images/product/large-size/5.jpg" alt="product image">
+                                                <img src="../ExamenTakaloFinal/assets/images/product/large-size/5.jpg" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="../examtakalo/assets/images/product/large-size/6.jpg" alt="product image">
+                                                <img src="../ExamenTakaloFinal/assets/images/product/large-size/6.jpg" alt="product image">
                                             </div>
                                         </div>
                                         <div class="product-details-thumbs slider-thumbs-1">                                        
-                                            <div class="sm-image"><img src="../examtakalo/assets/images/product/small-size/1.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="../examtakalo/assets/images/product/small-size/2.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="../examtakalo/assets/images/product/small-size/3.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="../examtakalo/assets/images/product/small-size/4.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="../examtakalo/assets/images/product/small-size/5.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="../examtakalo/assets/images/product/small-size/6.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="../ExamenTakaloFinal/assets/images/product/small-size/1.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="../ExamenTakaloFinal/assets/images/product/small-size/2.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="../ExamenTakaloFinal/assets/images/product/small-size/3.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="../ExamenTakaloFinal/assets/images/product/small-size/4.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="../ExamenTakaloFinal/assets/images/product/small-size/5.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="../ExamenTakaloFinal/assets/images/product/small-size/6.jpg" alt="product image thumb"></div>
                                         </div>
                                     </div>
                                     <!--// Product Details Left -->
@@ -342,47 +342,47 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <!-- Body Wrapper End Here -->
         <!-- jQuery-V1.12.4 -->
-        <script src="../examtakalo/assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/vendor/jquery-1.12.4.min.js"></script>
         <!-- Popper js -->
-        <script src="../examtakalo/assets/js/vendor/popper.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/vendor/popper.min.js"></script>
         <!-- Bootstrap V4.1.3 Fremwork js -->
-        <script src="../examtakalo/assets/js/bootstrap.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/bootstrap.min.js"></script>
         <!-- Ajax Mail js -->
-        <script src="../examtakalo/assets/js/ajax-mail.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/ajax-mail.js"></script>
         <!-- Meanmenu js -->
-        <script src="../examtakalo/assets/js/jquery.meanmenu.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.meanmenu.min.js"></script>
         <!-- Wow.min js -->
-        <script src="../examtakalo/assets/js/wow.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/wow.min.js"></script>
         <!-- Slick Carousel js -->
-        <script src="../examtakalo/assets/js/slick.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/slick.min.js"></script>
         <!-- Owl Carousel-2 js -->
-        <script src="../examtakalo/assets/js/owl.carousel.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/owl.carousel.min.js"></script>
         <!-- Magnific popup js -->
-        <script src="../examtakalo/assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.magnific-popup.min.js"></script>
         <!-- Isotope js -->
-        <script src="../examtakalo/assets/js/isotope.pkgd.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/isotope.pkgd.min.js"></script>
         <!-- Imagesloaded js -->
-        <script src="../examtakalo/assets/js/imagesloaded.pkgd.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/imagesloaded.pkgd.min.js"></script>
         <!-- Mixitup js -->
-        <script src="../examtakalo/assets/js/jquery.mixitup.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.mixitup.min.js"></script>
         <!-- Countdown -->
-        <script src="../examtakalo/assets/js/jquery.countdown.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.countdown.min.js"></script>
         <!-- Counterup -->
-        <script src="../examtakalo/assets/js/jquery.counterup.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.counterup.min.js"></script>
         <!-- Waypoints -->
-        <script src="../examtakalo/assets/js/waypoints.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/waypoints.min.js"></script>
         <!-- Barrating -->
-        <script src="../examtakalo/assets/js/jquery.barrating.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.barrating.min.js"></script>
         <!-- Jquery-ui -->
-        <script src="../examtakalo/assets/js/jquery-ui.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery-ui.min.js"></script>
         <!-- Venobox -->
-        <script src="../examtakalo/assets/js/venobox.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/venobox.min.js"></script>
         <!-- Nice Select js -->
-        <script src="../examtakalo/assets/js/jquery.nice-select.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/jquery.nice-select.min.js"></script>
         <!-- ScrollUp js -->
-        <script src="../examtakalo/assets/js/scrollUp.min.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/scrollUp.min.js"></script>
         <!-- Main/Activator js -->
-        <script src="../examtakalo/assets/js/main.js"></script>
+        <script src="../ExamenTakaloFinal/assets/js/main.js"></script>
     </body>
 <!-- index30:23-->
 </html>
